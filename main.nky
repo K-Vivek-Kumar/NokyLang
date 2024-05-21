@@ -1,0 +1,5 @@
+main() {
+    let num: 10;
+    let res = 64_000:6;
+    let relative = num + res;
+}
